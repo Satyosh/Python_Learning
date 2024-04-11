@@ -11,3 +11,12 @@ Pandasは主に表形式のデータ（データフレーム）を処理する�
 
 Matplotlib入門（作成中です）[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Satyosh/Python_Learning/blob/master/matplotlib.ipynb)
 Matplotlibはグラフを描くときに用いるツールです
+
+# 参考サイト
+・[【データサイエンティスト入門編】探索的データ解析（EDA）の基礎操作をPythonを使ってやってみよう](https://www.codexa.net/basic-exploratory-data-analysis-with-python/)
+
+・[東京大学「Pythonプログラミング入門」の授業ページ
+](https://utokyo-ipp.github.io/course/)
+
+・[京都大学プログラミング演習 python 2023](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/285599)
+
