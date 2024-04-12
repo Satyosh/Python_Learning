@@ -5,6 +5,7 @@
 
 # ノートブック
 ご自分で操作可能なノート（Google colaboratory）を公開しています。各ノートの「Open in Colab」バナーをクリックしてください。
+（Google colaboratoryの利用にはGoogleのアカウントが必要です）
 
 Python入門[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Satyosh/Python_Learning/blob/master/Python_nyumon.ipynb)
 
